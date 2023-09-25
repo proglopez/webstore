@@ -1,4 +1,25 @@
-{
-  "usuario": "UsuarioP",
-  "contrasennia": "P12345"
-}
+[
+  {
+    "usuario": "UsuarioP",
+    "contrasennia": "P12345",
+    "duration": 12,
+    "unit": "hours",
+    "expires": false
+  },
+  {
+    "usuario": "UsuarioA",
+    "contrasennia": "A12345",
+    "duration": 1,
+    "unit": "minutes",
+    "expires": true,
+    "hasExpired": false
+  },
+  {
+    "usuario": "UsuarioB",
+    "contrasennia": "B12345",
+    "duration": 1,
+    "unit": "minutes",
+    "expires": true,
+    "hasExpired": false
+  }
+]
