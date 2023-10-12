@@ -1,0 +1,72 @@
+[
+  {
+    "id": "zap01",
+    "nombre": "Tenis deportivos",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 55000,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap02",
+    "nombre": "Zapatos formales",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap03",
+    "nombre": "Botas de montaña",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap04",
+    "nombre": "Sandalias",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 55000,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap05",
+    "nombre": "Zapatillas de ballet",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 55000,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap06",
+    "nombre": "Mocasines",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap07",
+    "nombre": "Botines",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap08",
+    "nombre": "Zapatos de tacón",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": "44500",
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap09",
+    "nombre": "Zapatillas de casa",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "zap10",
+    "nombre": "Alpargatas",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  }
+]

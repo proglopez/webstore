@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pan01",
+    "nombre": "Pan Baguette",
+    "imagen": "assets/shared/images/baguette_bread.webp",
+    "precio": 5000,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan02",
+    "nombre": "Pan Blanco",
+    "imagen": "assets/shared/images/white_bread.jpg",
+    "precio": 4500,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan03",
+    "nombre": "Pan integral",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 4000,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan04",
+    "nombre": "Pan de centeno",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 3500,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan05",
+    "nombre": "Pan Focaccia",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 5000,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan06",
+    "nombre": "Pan de pita",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 3500,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan07",
+    "nombre": "Pan Brioche",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 10500,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan08",
+    "nombre": "Pan Chapata",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 4500,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan09",
+    "nombre": "Pan de maíz",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 2500,
+    "categoria": "Panadería"
+  },
+  {
+    "id": "pan10",
+    "nombre": "Pan Sourdough",
+    "imagen": "assets/shared/images/pendiente",
+    "precio": 8000,
+    "categoria": "Panadería"
+  }
+]
