@@ -2,70 +2,70 @@
   {
     "id": "zap01",
     "nombre": "Tenis deportivos",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/sports_tennis.avif",
     "precio": 55000,
     "categoria": "Zapatería"
   },
   {
     "id": "zap02",
     "nombre": "Zapatos formales",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/formal_shoes.png",
     "precio": 44500,
     "categoria": "Zapatería"
   },
   {
     "id": "zap03",
     "nombre": "Botas de montaña",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/hiking_boots.png",
     "precio": 44500,
     "categoria": "Zapatería"
   },
   {
     "id": "zap04",
     "nombre": "Sandalias",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/sandals.png",
     "precio": 55000,
     "categoria": "Zapatería"
   },
   {
     "id": "zap05",
     "nombre": "Zapatillas de ballet",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/ballet_slippers.png",
     "precio": 55000,
     "categoria": "Zapatería"
   },
   {
     "id": "zap06",
     "nombre": "Mocasines",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/moccasins.png",
     "precio": 44500,
     "categoria": "Zapatería"
   },
   {
     "id": "zap07",
     "nombre": "Botines",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/ankle_boots.jpg",
     "precio": 44500,
     "categoria": "Zapatería"
   },
   {
     "id": "zap08",
     "nombre": "Zapatos de tacón",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/heeled_shoes.png",
     "precio": "44500",
     "categoria": "Zapatería"
   },
   {
     "id": "zap09",
     "nombre": "Zapatillas de casa",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/house_slippers.jpg",
     "precio": 44500,
     "categoria": "Zapatería"
   },
   {
     "id": "zap10",
     "nombre": "Alpargatas",
-    "imagen": "assets/shared/images/pendiente",
+    "imagen": "assets/shared/images/zapateria/espadrilles.png",
     "precio": 44500,
     "categoria": "Zapatería"
   }
