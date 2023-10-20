@@ -1,0 +1,72 @@
+[
+  {
+    "id": "spo1",
+    "nombre": "Balón de Fútbol",
+    "imagen": "assets/shared/images/balones_de_deportes/soccer_ball.jpg",
+    "precio": 55000,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo2",
+    "nombre": "Balón de Baloncesto",
+    "imagen": "assets/shared/images/balones_de_deportes/basketball.jpg",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo3",
+    "nombre": "Balón de Rugby",
+    "imagen": "assets/shared/images/balones_de_deportes/rugby_ball.jpg",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo4",
+    "nombre": "Pelota de Béisbol",
+    "imagen": "assets/shared/images/balones_de_deportes/baseball_ball.jpg",
+    "precio": 55000,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo5",
+    "nombre": "Pelota de Tenis",
+    "imagen": "assets/shared/images/balones_de_deportes/tennis_ball.jpg",
+    "precio": 55000,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo6",
+    "nombre": "Pelota de Golf",
+    "imagen": "assets/shared/images/balones_de_deportes/golf_ball.jpg",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo7",
+    "nombre": "Pelota de Ping Pong",
+    "imagen": "assets/shared/images/balones_de_deportes/ping_pong_ball.jpg",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo8",
+    "nombre": "Balón Puck de Hockey",
+    "imagen": "assets/shared/images/balones_de_deportes/hockey_puck_ball.jpg",
+    "precio": "44500",
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo9",
+    "nombre": "Balón de Voleibol",
+    "imagen": "assets/shared/images/balones_de_deportes/volleyball_ball.jpg",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  },
+  {
+    "id": "spo10",
+    "nombre": "Balón de Balonmano",
+    "imagen": "assets/shared/images/balones_de_deportes/handball_ball.jpg",
+    "precio": 44500,
+    "categoria": "Zapatería"
+  }
+]

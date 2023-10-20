@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fru1",
+    "nombre": "Automóvil Toyota",
+    "imagen": "assets/shared/images/automovilismo/toyota_car.jpg",
+    "precio": 55000000,
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru2",
+    "nombre": "Automóvil Ford",
+    "imagen": "assets/shared/images/automovilismo/ford_car.jpg",
+    "precio": 88500000,
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru3",
+    "nombre": "Camioneta Honda",
+    "imagen": "assets/shared/images/automovilismo/honda_truck.jpg",
+    "precio": 77300000,
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru4",
+    "nombre": "Camioneta BMW",
+    "imagen": "assets/shared/images/automovilismo/bmw_truck.jpg",
+    "precio": 82000000,
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru5",
+    "nombre": "Automóvil Mercedes-Benz",
+    "imagen": "assets/shared/images/automovilismo/mercedes-benz_car.jpg",
+    "precio": 93200000,
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru6",
+    "nombre": "Automóvil Volkswagen",
+    "imagen": "assets/shared/images/automovilismo/volkswagen_car.jpg",
+    "precio": 5210000,
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru7",
+    "nombre": "Camión Nissan",
+    "imagen": "assets/shared/images/automovilismo/nissan_truck.jpg",
+    "precio": 72400000,
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru8",
+    "nombre": "Automóvil Audi",
+    "imagen": "assets/shared/images/automovilismo/audi_car.jpg",
+    "precio": "92300000",
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru9",
+    "nombre": "Camioneta Chevrolet",
+    "imagen": "assets/shared/images/automovilismo/chevrolet_truck.jpg",
+    "precio": 54100000,
+    "categoria": "Automovilísmo"
+  },
+  {
+    "id": "fru10",
+    "nombre": "Automóvil Hyundai",
+    "imagen": "assets/shared/images/automovilismo/hyundai_car.jpg",
+    "precio": 71200000,
+    "categoria": "Automovilísmo"
+  }
+]

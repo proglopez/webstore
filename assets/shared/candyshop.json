@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tie1",
+    "nombre": "Caramelos de chocolate",
+    "imagen": "assets/shared/images/tienda_de_dulces/chocolate_candies.jpg",
+    "precio": 5500,
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie2",
+    "nombre": "Galletas de vainilla",
+    "imagen": "assets/shared/images/tienda_de_dulces/vanilla_cookies.jpg",
+    "precio": 4700,
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie3",
+    "nombre": "Tarta de manzana",
+    "imagen": "assets/shared/images/tienda_de_dulces/apple_pie.jpg",
+    "precio": 10500,
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie4",
+    "nombre": "Donuts",
+    "imagen": "assets/shared/images/tienda_de_dulces/donuts.jpg",
+    "precio": 5000,
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie5",
+    "nombre": "Pastel de queso",
+    "imagen": "assets/shared/images/tienda_de_dulces/cheesecake.jpg",
+    "precio": 8000,
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie6",
+    "nombre": "Brownies",
+    "imagen": "assets/shared/images/tienda_de_dulces/brownies.jpg",
+    "precio": 3800,
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie7",
+    "nombre": "Helado",
+    "imagen": "assets/shared/images/tienda_de_dulces/frozen.jpg",
+    "precio": 3100,
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie8",
+    "nombre": "Macarons",
+    "imagen": "assets/shared/images/tienda_de_dulces/macaroni.jpg",
+    "precio": "8200",
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie9",
+    "nombre": "Alfajores",
+    "imagen": "assets/shared/images/tienda_de_dulces/caramel_cookies.jpg",
+    "precio": 6300,
+    "categoria": "Tienda de dulces"
+  },
+  {
+    "id": "tie10",
+    "nombre": "Churros",
+    "imagen": "assets/shared/images/tienda_de_dulces/churros.jpg",
+    "precio": 2850,
+    "categoria": "Tienda de dulces"
+  }
+]

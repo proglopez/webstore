@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bic1",
+    "nombre": "Bicicleta de Carretera",
+    "imagen": "assets/shared/images/bicicleteria/road_bike.jpg",
+    "precio": 62000,
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic2",
+    "nombre": "Bicicleta de Montaña",
+    "imagen": "assets/shared/images/bicicleteria/mountain_bike.jpg",
+    "precio": 82300,
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic3",
+    "nombre": "Bicicleta Híbrida",
+    "imagen": "assets/shared/images/bicicleteria/hybrid_bike.jpg",
+    "precio": 82300,
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic4",
+    "nombre": "Bicicleta Plegable",
+    "imagen": "assets/shared/images/bicicleteria/folding_bicycle.jpg",
+    "precio": 62000,
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic5",
+    "nombre": "Bicicleta de Ciclocross",
+    "imagen": "assets/shared/images/bicicleteria/cyclocross_bike.jpg",
+    "precio": 62000,
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic6",
+    "nombre": "Bicicleta de Turismo",
+    "imagen": "assets/shared/images/bicicleteria/touring_bike.jpg",
+    "precio": 82300,
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic7",
+    "nombre": "Bicicleta Eléctrica",
+    "imagen": "assets/shared/images/bicicleteria/electric_bicycle.jpg",
+    "precio": 82300,
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic8",
+    "nombre": "Bicicleta de Piñón Fijo",
+    "imagen": "assets/shared/images/bicicleteria/fixed_gear_bike.jpg",
+    "precio": "82300",
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic9",
+    "nombre": "Bicicleta BMX",
+    "imagen": "assets/shared/images/bicicleteria/bmx_bike.jpg",
+    "precio": 82300,
+    "categoria": "Bicicletería"
+  },
+  {
+    "id": "bic10",
+    "nombre": "Bicicleta Tándem",
+    "imagen": "assets/shared/images/bicicleteria/tandem_bike.jpg",
+    "precio": 82300,
+    "categoria": "Bicicletería"
+  }
+]

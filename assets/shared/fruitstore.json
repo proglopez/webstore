@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fru1",
+    "nombre": "Manzana",
+    "imagen": "assets/shared/images/fruteria/apple_fruit.jpg",
+    "precio": 1200,
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru2",
+    "nombre": "Plátano",
+    "imagen": "assets/shared/images/fruteria/banana_fruit.jpg",
+    "precio": 1000,
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru3",
+    "nombre": "Naranja",
+    "imagen": "assets/shared/images/fruteria/orange_fruit.jpg",
+    "precio": 300,
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru4",
+    "nombre": "Uvas",
+    "imagen": "assets/shared/images/fruteria/grape_fruit.jpg",
+    "precio": 5000,
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru5",
+    "nombre": "Fresas",
+    "imagen": "assets/shared/images/fruteria/strawberry_fruit.jpg",
+    "precio": 5000,
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru6",
+    "nombre": "Sandía",
+    "imagen": "assets/shared/images/fruteria/watermelon_fruit.jpg",
+    "precio": 5500,
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru7",
+    "nombre": "Piña",
+    "imagen": "assets/shared/images/fruteria/pineapple_fruit.jpg",
+    "precio": 3500,
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru8",
+    "nombre": "Mango",
+    "imagen": "assets/shared/images/fruteria/mango_fruit.jpg",
+    "precio": "4500",
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru9",
+    "nombre": "Melocotón",
+    "imagen": "assets/shared/images/fruteria/peach_fruit.jpg",
+    "precio": 8200,
+    "categoria": "Frutería"
+  },
+  {
+    "id": "fru10",
+    "nombre": "Pera",
+    "imagen": "assets/shared/images/fruteria/pear_fruit.jpg",
+    "precio": 3700,
+    "categoria": "Frutería"
+  }
+]
